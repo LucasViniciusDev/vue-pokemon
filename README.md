@@ -31,7 +31,7 @@ Após configurado sua variavel de ambiente, inicie o projeto com o comando:
 npm run serve
 ```
 
-No console aparecerá o **host** e a **port** que o projeto está rodando, por padrão será **http://localhost:8080** caso você não tenha nenhum outro projeto rodando nesta porta.
+No terminal aparecerá o **host** e a **port** que o projeto está rodando, por padrão será **http://localhost:8080** caso você não tenha nenhum outro projeto rodando nesta porta.
 
 Imagens
 ------
