@@ -22,6 +22,8 @@ npm install
 
 Após instalar as dependências, configure as variaveis de ambiente que se encontra no arquivo **.env**
 
+As variaveis de ambiente sempre são carregas ao iniciar o servidor, caso tenha alguma alteração é necessário reiniciar o serviço.
+
 Você irá configurar o **VUE_APP_API_URL** para informar a **url** do servidor que fornecerá as informações, no caso o **host** e **port** que esta rodando o **Laravel Pokemon**
 
 Por padrão o **VUE_APP_API_URL** virá configurado com **VUE_APP_API_URL="http://localhost:8000/api"** que é o padrão do projeto **Laravel Pokemon**
