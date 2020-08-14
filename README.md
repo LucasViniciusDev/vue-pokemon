@@ -38,8 +38,8 @@ Imagens
 
 Screenshots
 
-![Alt text](/../-/raw/master/screenshots/001.PNG?raw=true "001")
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/vue-pokemon/master/screenshots/001.PNG "001")
 
-![Alt text](/../-/raw/master/screenshots/002.PNG?raw=true "002")
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/vue-pokemon/master/screenshots/002.PNG "002")
 
-![Alt text](/../-/raw/master/screenshots/003.PNG?raw=true "003")
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/vue-pokemon/master/screenshots/003.PNG "003")
