@@ -4,7 +4,7 @@ Vue Pokemon
 Descrição
 ------
 
-O projeto é um cliente do **Laravel Pokemon** ([[https://gitlab.com/lucas240596/laravel-pokemon](https://github.com/LucasViniciusDev/laravel-pokemon)](https://github.com/LucasViniciusDev/laravel-pokemon)), para ser utilizado primeiro você deve configurar o **Laravel Pokemon**
+O projeto é um cliente do **Laravel Pokemon** (https://github.com/LucasViniciusDev/laravel-pokemon), para ser utilizado primeiro você deve configurar o **Laravel Pokemon**
 
 Este projeto listará todos os pokemons que a **API** fornece, você poderá ver as informações individuais de cada pokemon.
 
@@ -13,7 +13,7 @@ Neste projeto foi utilizado o **VueJS** e **Vuetify** juntamento com **axios** p
 Instalação
 ------
 
-Primeiro você deverá ter configurado o **Laravel Pokemon** ([[https://gitlab.com/lucas240596/laravel-pokemon](https://github.com/LucasViniciusDev/laravel-pokemon)](https://github.com/LucasViniciusDev/laravel-pokemon))
+Primeiro você deverá ter configurado o **Laravel Pokemon** (https://github.com/LucasViniciusDev/laravel-pokemon)
 
 Após clonar o projeto, instale as dependências com o comando:
 ```bash
